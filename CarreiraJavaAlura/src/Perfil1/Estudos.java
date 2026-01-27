@@ -1,4 +1,4 @@
-package Perfil.src;
+package Perfil1;
 
 public class Estudos {
 	
